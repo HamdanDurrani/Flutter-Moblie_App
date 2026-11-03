@@ -1,0 +1,2 @@
+/Users/durrani_296/Desktop/flutter_testing/flutter_application_1/build/macos/Build/Products/Debug/flutter_application_1.app
+/Users/durrani_296/Desktop/flutter_testing/flutter_application_1/build/macos/Build/Products/Debug/flutter_application_1.app
